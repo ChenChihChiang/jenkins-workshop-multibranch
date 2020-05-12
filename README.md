@@ -1,1 +1,1 @@
-# jenkins-workshop-multi-branch
+# jenkins-workshop-multibranch
