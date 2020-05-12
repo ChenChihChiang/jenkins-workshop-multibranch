@@ -4,7 +4,7 @@ pipeline {
     stage('first') {
       stage('first') {
         steps {
-          echo 'master'
+          echo 'staging'
         }
       }
     }
