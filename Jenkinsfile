@@ -2,10 +2,8 @@ pipeline {
   agent any
   stages {
     stage('first') {
-      stage('first') {
-        steps {
-          echo 'dev'
-        }
+      steps {
+        echo 'dev'
       }
     }
   }
